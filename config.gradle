@@ -1,0 +1,23 @@
+ext {
+    android = [
+            compileSdkVersion: 28,
+            minSdkVersion    : 21,
+            targetSdkVersion : 28,
+            versionCode      : 1,
+            versionName      : "1.0.0"
+    ]
+
+    dependVersion = [
+            support   : "28.0.0",
+            lifecycle : "2.1.0-alpha02",
+            navigation: "2.0.0",
+            retrofit  : "2.4.0",
+            glide     : "4.8.0"
+    ]
+    depend = [
+            "navigation-fragment-ktx": "androidx.navigation:navigation-fragment-ktx:${dependVersion.navigation}",
+            "navigation-ui-ktx"      : "androidx.navigation:navigation-ui-ktx:${dependVersion.navigation}",
+            "design": "com.android.support:design:${dependVersion.support}"
+    ]
+    libraries = depend.values()
+}

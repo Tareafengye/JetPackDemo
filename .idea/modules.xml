@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/JetPackGank.iml" filepath="$PROJECT_DIR$/.idea/modules/JetPackGank.iml" group="JetPackGank" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="JetPackGank/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/data.iml" group="JetPackGank/data" />
     </modules>
   </component>
 </project>

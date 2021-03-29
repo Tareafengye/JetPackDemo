@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.classic.common:multiple-status-view:1.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35573f2c00fb2672d46fbb3cb0b818ff/jetified-multiple-status-view-1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35573f2c00fb2672d46fbb3cb0b818ff/jetified-multiple-status-view-1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35573f2c00fb2672d46fbb3cb0b818ff/jetified-multiple-status-view-1.6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.classic.common/multiple-status-view/1.6/eec9514df7e6d17812296a6aa50fb29e8120668c/multiple-status-view-1.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.classic.common/multiple-status-view/1.6/142869aebfefdb517b57e10fc8a35f2f010d89dc/multiple-status-view-1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
